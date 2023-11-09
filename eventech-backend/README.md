@@ -1,7 +1,7 @@
 # Eventech (Event Management) Backend
 
 ## Overview
-The Event Management backend provides a RESTful API for managing events and attendees. It serves as the data source for the Event Management Frontend repository ().
+The Event Management backend provides a RESTful API for managing events and attendees. It serves as the data source for the Event Management Frontend.
 
 ## Features
 
@@ -15,7 +15,7 @@ The Event Management backend provides a RESTful API for managing events and atte
 
 ## Getting Started
 
-1. Clone this repository: ```git clone https://github.com/ValiantDmello/eventech-backend.git```
+1. Clone this repository: ```git clone https://github.com/ValiantDmello/Eventech.git```
 2. Navigate to the project directory: ```cd eventech_backend```
 3. Create a virtual environment and activate it: ```python -m venv venv``` <br>
 ```source venv/bin/activate```
