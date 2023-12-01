@@ -3,6 +3,7 @@
 ## Overview
 
 The Eventech frontend is a user-friendly event mangement web interface for managing events, attendees, and more.
+Link to deployed live server: https://eventech-valiant.netlify.app/
 
 ## Features
 
